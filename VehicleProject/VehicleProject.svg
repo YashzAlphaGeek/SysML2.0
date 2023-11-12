@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="273px" preserveAspectRatio="none" style="width:315px;height:273px;background:#FFFFFF;" version="1.1" viewBox="0 0 315 273" width="315px" zoomAndPan="magnify"><defs/><g><!--MD5=[fbc87193dbaf4d95561dea2c320d4a47]
+cluster E1--><g id="cluster_E1"><a href="psysml:2433fce5-dbfd-4dc9-a23a-bb7c0f1e8c62" target="_top" title="psysml:2433fce5-dbfd-4dc9-a23a-bb7c0f1e8c62" xlink:actuate="onRequest" xlink:href="psysml:2433fce5-dbfd-4dc9-a23a-bb7c0f1e8c62" xlink:show="new" xlink:title="psysml:2433fce5-dbfd-4dc9-a23a-bb7c0f1e8c62" xlink:type="simple"><polygon fill="none" points="16,6,162,6,169,29.6094,298,29.6094,298,266,16,266,16,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="169" y1="29.6094" y2="29.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="140" x="20" y="22.5332">Package Yashwanth</text></a></g><!--MD5=[b4997ac47864f28c2f74865a473b2911]
+class E2--><a href="psysml:904c0f8a-ec69-4cd5-af23-216064675d91" target="_top" title="psysml:904c0f8a-ec69-4cd5-af23-216064675d91" xlink:actuate="onRequest" xlink:href="psysml:904c0f8a-ec69-4cd5-af23-216064675d91" xlink:show="new" xlink:title="psysml:904c0f8a-ec69-4cd5-af23-216064675d91" xlink:type="simple"><g id="elem_E2"><rect fill="#FFFFFF" height="96.9656" id="E2" style="stroke:#181818;stroke-width:0.5;" width="67" x="123.5" y="153"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="58" x="128" y="170.457">«part  def»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="134" y="187.627">Vehicle</text><line style="stroke:#181818;stroke-width:0.5;" x1="124.5" x2="189.5" y1="195.7031" y2="195.7031"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="39" x="129.5" y="225.2801">length</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="129.5" y="242.8895">weight</text><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="59" x="127.5" y="208.9316">attributes</text></g></a><!--MD5=[09b614a08d8cba4a07c9adeb5e0fee81]
+class E3--><a href="psysml:c6654dad-d188-424d-9d6f-e9a7e62a7c33" target="_top" title="psysml:c6654dad-d188-424d-9d6f-e9a7e62a7c33" xlink:actuate="onRequest" xlink:href="psysml:c6654dad-d188-424d-9d6f-e9a7e62a7c33" xlink:show="new" xlink:title="psysml:c6654dad-d188-424d-9d6f-e9a7e62a7c33" xlink:type="simple"><g id="elem_E3"><rect fill="#FFFFFF" height="50.7031" id="E3" style="stroke:#181818;stroke-width:0.5;" width="60" x="222" y="42"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="58" x="223" y="59.457">«part  def»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="23" x="240.5" y="76.627">Car</text><line style="stroke:#181818;stroke-width:0.5;" x1="223" x2="281" y1="84.7031" y2="84.7031"/></g></a><!--MD5=[ebbe1d658d1005bcc118a6aa81145e00]
+class E4--><a href="psysml:cd2aba3c-07b3-4d50-a9ae-f8d13a5f4432" target="_top" title="psysml:cd2aba3c-07b3-4d50-a9ae-f8d13a5f4432" xlink:actuate="onRequest" xlink:href="psysml:cd2aba3c-07b3-4d50-a9ae-f8d13a5f4432" xlink:show="new" xlink:title="psysml:cd2aba3c-07b3-4d50-a9ae-f8d13a5f4432" xlink:type="simple"><g id="elem_E4"><rect fill="#FFFFFF" height="50.7031" id="E4" style="stroke:#181818;stroke-width:0.5;" width="60" x="127" y="42"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="58" x="128" y="59.457">«part  def»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="27" x="143.5" y="76.627">Bike</text><line style="stroke:#181818;stroke-width:0.5;" x1="128" x2="186" y1="84.7031" y2="84.7031"/></g></a><!--MD5=[270fce915f116d4de14055a7c1d9a0f3]
+class E5--><a href="psysml:48893b00-e03b-4872-a22c-9209ba28cc1c" target="_top" title="psysml:48893b00-e03b-4872-a22c-9209ba28cc1c" xlink:actuate="onRequest" xlink:href="psysml:48893b00-e03b-4872-a22c-9209ba28cc1c" xlink:show="new" xlink:title="psysml:48893b00-e03b-4872-a22c-9209ba28cc1c" xlink:type="simple"><g id="elem_E5"><rect fill="#FFFFFF" height="50.7031" id="E5" style="stroke:#181818;stroke-width:0.5;" width="60" x="32" y="42"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="58" x="33" y="59.457">«part  def»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="45.5" y="76.627">Train</text><line style="stroke:#181818;stroke-width:0.5;" x1="33" x2="91" y1="84.7031" y2="84.7031"/></g></a><!--MD5=[05d275557350bfb9b23a4ef7222b4c39]
+link E3 to E2--><g id="link_E3_E2"><a href="psysml:3138dbf7-36b5-4adc-b0a4-04a98c0e676b" target="_top" title="psysml:3138dbf7-36b5-4adc-b0a4-04a98c0e676b" xlink:actuate="onRequest" xlink:href="psysml:3138dbf7-36b5-4adc-b0a4-04a98c0e676b" xlink:show="new" xlink:title="psysml:3138dbf7-36b5-4adc-b0a4-04a98c0e676b" xlink:type="simple"><path d="M234.35,93.02 C225.23,105.69 213.64,121.79 202.23,137.65 " fill="none" id="E3-to-E2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="207.88,141.79,190.51,153.94,196.51,133.62,207.88,141.79" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[185131fc0dcab0a4505a2ebe144e961b]
+link E4 to E2--><g id="link_E4_E2"><a href="psysml:bb2964e6-eeb2-4a3a-8929-b14a1366d3b0" target="_top" title="psysml:bb2964e6-eeb2-4a3a-8929-b14a1366d3b0" xlink:actuate="onRequest" xlink:href="psysml:bb2964e6-eeb2-4a3a-8929-b14a1366d3b0" xlink:show="new" xlink:title="psysml:bb2964e6-eeb2-4a3a-8929-b14a1366d3b0" xlink:type="simple"><path d="M157,93.02 C157,104.29 157,118.28 157,132.39 " fill="none" id="E4-to-E2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="164,132.86,157,152.86,150,132.86,164,132.86" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[15ebcb19ae302d9b601edb458606d402]
+link E5 to E2--><g id="link_E5_E2"><a href="psysml:cb98527b-3eeb-43e7-8899-733fb14963d3" target="_top" title="psysml:cb98527b-3eeb-43e7-8899-733fb14963d3" xlink:actuate="onRequest" xlink:href="psysml:cb98527b-3eeb-43e7-8899-733fb14963d3" xlink:show="new" xlink:title="psysml:cb98527b-3eeb-43e7-8899-733fb14963d3" xlink:type="simple"><path d="M79.65,93.02 C88.77,105.69 100.36,121.79 111.77,137.65 " fill="none" id="E5-to-E2" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="117.49,133.62,123.49,153.94,106.12,141.79,117.49,133.62" style="stroke:#181818;stroke-width:1.0;"/></a></g><!--MD5=[ee7deec1c1219a4408bfe7fb34bbab34]
+@startuml
+skin sysmlbw
+skinparam monochrome true
+skinparam wrapWidth 300
+hide circle
+
+package "Package Yashwanth" as E1  [[psysml:2433fce5-dbfd-4dc9-a23a-bb7c0f1e8c62 ]]  {
+comp def "Vehicle" as E2  <<(T,blue) part  def>> [[psysml:904c0f8a-ec69-4cd5-af23-216064675d91 ]] {
+##//attributes//##
+length
+weight
+}
+comp def "Car" as E3  <<(T,blue) part  def>> [[psysml:c6654dad-d188-424d-9d6f-e9a7e62a7c33 ]] {
+}
+comp def "Bike" as E4  <<(T,blue) part  def>> [[psysml:cd2aba3c-07b3-4d50-a9ae-f8d13a5f4432 ]] {
+}
+comp def "Train" as E5  <<(T,blue) part  def>> [[psysml:48893b00-e03b-4872-a22c-9209ba28cc1c ]] {
+}
+}
+E3 - -|> E2 [[psysml:3138dbf7-36b5-4adc-b0a4-04a98c0e676b ]] 
+E4 - -|> E2 [[psysml:bb2964e6-eeb2-4a3a-8929-b14a1366d3b0 ]] 
+E5 - -|> E2 [[psysml:cb98527b-3eeb-43e7-8899-733fb14963d3 ]] 
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 22:31:30 IST 2022)
+(EPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: IN
+--></g></svg>
