@@ -14,4 +14,6 @@ As a first attempt, I started making a simple model of a Flashlight. I started b
 
 ![](https://github.com/YashzAlphaGeek/SysML2.0/blob/master/VehicleProject/VehicleProject.png)
 
+![](https://github.com/YashzAlphaGeek/SysML2.0/blob/master/SysMLv2_Jupyter.png)
+
 
